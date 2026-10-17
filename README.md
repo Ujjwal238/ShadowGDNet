@@ -1,6 +1,6 @@
 <div align="center">
 
-# ShadowGDNet: Conditional Fusion of Unreliable Scene Priors for Mask-Free Shadow Removal
+# ShadowGDNet: Gated and Decoupled Fusion of Unreliable Scene Priors for Mask-Free Shadow Removal
 
 **[Ujjwal Mishra](https://scholar.google.co.in/citations?user=Ggw7z6sAAAAJ&hl=en)<sup>1</sup>, Kailash A. Hambarde<sup>2</sup>, Hugo Proença<sup>2</sup>, Sachin Chaudhary<sup>3</sup>, Praful Hambarde<sup>4</sup>, Amit Shukla<sup>4</sup>**
 
